@@ -4,4 +4,4 @@ you can view the Assignment Requirements.pdf file. For the explanation for the c
 
 The dataset for the Bird Classification is in this Google Drive link: https://drive.google.com/drive/folders/1lcTw5YuiHIYj-kABplIOiq3u5aZ21s6i?usp=sharing
 
-Make Sure you unzip the zip files. 
+Make sure you unzip the zip files. 
