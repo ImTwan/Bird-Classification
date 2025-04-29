@@ -1,6 +1,7 @@
 # Bird-Classification
 The dataset including the images in the train and test files is too large. 
-Therefore, the dataset for the Bird Classification is in this Google Drive link:
+
+The dataset for the Bird Classification is in this Google Drive link:
 https://drive.google.com/drive/folders/1lcTw5YuiHIYj-kABplIOiq3u5aZ21s6i?usp=sharing
 
 Make sure you unzip the zip files. 
